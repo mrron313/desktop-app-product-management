@@ -1,0 +1,12 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\bin\Release\Supershop.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\bin\Release\Supershop.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.Form3.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.Form4.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.Update.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.Form6.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Release\Supershop.pdb

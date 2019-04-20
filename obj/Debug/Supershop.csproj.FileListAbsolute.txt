@@ -1,0 +1,13 @@
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\bin\Debug\Supershop.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\bin\Debug\Supershop.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.csprojResolveAssemblyReference.cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form1.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Properties.Resources.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.csproj.GenerateResource.Cache
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.exe
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.pdb
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form2.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form3.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form4.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Form6.resources
+C:\Users\ASUS\Documents\Visual Studio 2012\Projects\2ndMid\Supershop\Supershop\obj\Debug\Supershop.Update.resources
